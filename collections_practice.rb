@@ -7,3 +7,4 @@ def sort_array_desc(num_array)
 end
 
 def sort_array_char_count
+end
