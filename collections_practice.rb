@@ -21,6 +21,6 @@ end
 
 def kesha_maker(string_array)
   string_array each do |word|
-
+    word.replace(3, "$")
   end
 end
