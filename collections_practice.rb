@@ -41,4 +41,5 @@ def add_s(array)
       puts "#{word}"
     end
   end
+  array
 end
