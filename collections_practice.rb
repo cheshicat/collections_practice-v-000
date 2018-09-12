@@ -30,9 +30,9 @@ def find_a(array)
 end
 
 def sum_array(array)
-  array.inject{ |sum,x| sum + x }
+  array.inject{ |sum, x| sum + x }
 end
 
-def add_s
-
+def add_s(array)
+  [1,2].each_with_index.collect{|element, index| }
 end
