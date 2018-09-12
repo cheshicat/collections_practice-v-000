@@ -9,3 +9,5 @@ end
 def sort_array_char_count(string_array)
   string_array.sort_by { |word| word.length}
 end
+
+def swap_elements(array)
