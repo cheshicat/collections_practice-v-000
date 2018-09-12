@@ -21,6 +21,6 @@ end
 
 def kesha_maker(string_array)
   string_array.each do |word|
-    word.at(2).replace "$"
+    word[2] = "$"
   end
 end
