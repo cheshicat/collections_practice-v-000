@@ -24,3 +24,6 @@ def kesha_maker(string_array)
     word[2] = "$"
   end
 end
+
+def find_a
+end
