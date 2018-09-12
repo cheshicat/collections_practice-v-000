@@ -20,4 +20,7 @@ def reverse_array(num_array)
 end
 
 def kesha_maker(string_array)
+  string_array each do |word|
+
+  end
 end
