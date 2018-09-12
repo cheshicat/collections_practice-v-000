@@ -37,5 +37,5 @@ def add_s(array)
   array.each_with_index do |word|
     puts "#{word}s"
   end
-  array
+  array.join
 end
