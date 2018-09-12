@@ -18,3 +18,6 @@ end
 def reverse_array(num_array)
   num_array.reverse
 end
+
+def kesha_maker
+end
